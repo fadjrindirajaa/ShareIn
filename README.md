@@ -6,4 +6,4 @@ This project is a website-based application designed to assist users in donating
 2. Fadjrin Diraja Muhammad
 3. M Dzikri Alfarisyi
 
-In its implementation, we use the CodeIgniter 4 framework with HTML, CSS, and PHP languages in the development process, also assisted by Figma in the process of designing the UI/UX of this application.
+In its implementation, we use the CodeIgniter 4 framework with HTML, CSS, PHP, and JavaScript languages in the development process, also assisted by Figma in the process of designing the UI/UX of this application.
