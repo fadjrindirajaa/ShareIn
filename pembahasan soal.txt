@@ -1,0 +1,153 @@
+<!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+  <!-- Content Header (Page header) -->
+  <div class="content-header">
+    <div class="container-fluid">
+      <div class="row mb-2">
+        <div class="col-sm-6">
+          <h1 class="m-0"><?= $title; ?></h1>
+        </div><!-- /.col -->
+        <div class="col-sm-6">
+          <ol class="breadcrumb float-sm-right">
+            <li class="breadcrumb-item"><a href="/dashboard">Dashboard</a></li>
+            <li class="breadcrumb-item active"><?= $title; ?></li>
+          </ol>
+        </div><!-- /.col -->
+      </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+  </div>
+  <!-- /.content-header -->
+
+  <!-- Main content -->
+  <section class="content">
+    <div class="container-fluid">
+      <nav aria-label="Page navigation example">
+        <ul class="pagination pagination-sm">
+          <li class="page-item"><a class="page-link" href="#1">no 1</a></li>
+          <li class="page-item"><a class="page-link" href="#2">no 2</a></li>
+          <li class="page-item"><a class="page-link" href="#3">no 3</a></li>
+          <li class="page-item"><a class="page-link" href="#4">no 4</a></li>
+          <li class="page-item"><a class="page-link" href="#5">no 5</a></li>
+          <li class="page-item"><a class="page-link" href="#6">no 6</a></li>
+          <li class="page-item"><a class="page-link" href="#7">no 7</a></li>
+          <li class="page-item"><a class="page-link" href="#8">no 8</a></li>
+          <li class="page-item"><a class="page-link" href="#9">no 9</a></li>
+          <li class="page-item"><a class="page-link" href="#10">no 10</a></li>
+        </ul>
+      </nav>
+      <!-- no 1 -->
+      <div class="first">
+        <div>
+          <div class="second">
+            <h3 id="1">Pembahasan No 1</h2>
+          </div>
+          <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/UM9tpwkDmfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+      <!-- no 2 -->
+      <div class="first">
+        <div>
+          <div class="second">
+            <h3 id="2">Pembahasan No 2</h2>
+          </div>
+          <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/D0QQhJphklY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+      <!-- no 3 -->
+      <div class="first">
+        <div>
+          <div class="second">
+            <h3 id="3">Pembahasan No 3</h2>
+          </div>
+          <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/1HwexIHJyR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+      <!-- no 4 -->
+      <div class="first">
+        <div>
+          <div class="second">
+            <h3 id="4">Pembahasan No 4</h2>
+          </div>
+          <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/e5JswkrB3Uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+      <!-- no 5 -->
+      <div class="first">
+        <div>
+          <div class="second">
+            <h3 id="5">Pembahasan No 5</h2>
+          </div>
+          <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Hc4RetApWUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+      <!-- no 6 -->
+      <div class="first">
+        <div>
+          <div class="second">
+            <h3 id="6">Pembahasan No 6</h2>
+          </div>
+          <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/4QqaWo2F9JY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+      <!-- no 7 -->
+      <div class="first">
+        <div>
+          <div class="second">
+            <h3 id="7">Pembahasan No 7</h2>
+          </div>
+          <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/-ZPAG8isJfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+      <!-- no 8 -->
+      <div class="first">
+        <div>
+          <div class="second">
+            <h3 id="8">Pembahasan No 8</h2>
+          </div>
+          <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/OvSGYMReuVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+      <!-- no 9 -->
+      <div class="first">
+        <div>
+          <div class="second">
+            <h3 id="9">Pembahasan No 9</h2>
+          </div>
+          <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/IrR8hUz3wdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+      <!-- no 10 -->
+      <div class="first">
+        <div>
+          <div class="second">
+            <h3 id="10">Pembahasan No 10</h2>
+          </div>
+          <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/OccrynLqLtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--/. container-fluid -->
+  </section>
+  <!-- /.content -->
+</div>
+<!-- /.content-wrapper -->

@@ -1,0 +1,21 @@
+.first {
+  width: 750px;
+  background-color: #32383d;
+  margin: 80px auto;
+  padding: 25px 25px;
+  color: white;
+  border-radius: 25px;
+}
+
+.second {
+  border-bottom: 2px dashed white;
+  margin-bottom: 5px;
+  padding-bottom: 10px;
+}
+
+.video iframe {
+  width: 600px;
+  height: 400px;
+  margin: 30px auto;
+  display: block;
+}
